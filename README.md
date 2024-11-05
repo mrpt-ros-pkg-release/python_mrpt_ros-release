@@ -1,3 +1,26 @@
+## python_mrpt_ros (noetic) - 2.14.5-1
+
+The packages in the `python_mrpt_ros` repository were released into the `noetic` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -y -r noetic python_mrpt_ros` on `Tue, 05 Nov 2024 06:47:28 -0000`
+
+The `python_mrpt` package was released.
+
+Version of package(s) in repository `python_mrpt_ros`:
+
+- upstream repository: https://github.com/MRPT/python_mrpt_ros.git
+- release repository: https://github.com/mrpt-ros-pkg-release/python_mrpt_ros-release.git
+- rosdistro version: `2.14.4-1`
+- old version: `2.14.4-1`
+- new version: `2.14.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## python_mrpt_ros (noetic) - 2.14.4-1
 
 The packages in the `python_mrpt_ros` repository were released into the `noetic` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -y -r noetic python_mrpt_ros` on `Sat, 19 Oct 2024 14:04:20 -0000`
