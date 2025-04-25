@@ -3,7 +3,7 @@
 <package format="3">
   <name>python_mrpt</name>
   <!-- Before updating version number, read [MRPT_ROOT]/version_prefix.txt first -->
-  <version>2.14.7</version>
+  <version>2.14.8</version>
   <description>Python wrapper for Mobile Robot Programming Toolkit (MRPT) libraries</description>
 
   <maintainer email="joseluisblancoc@gmail.com">Jose-Luis Blanco-Claraco</maintainer>
